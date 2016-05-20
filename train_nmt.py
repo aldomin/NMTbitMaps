@@ -37,6 +37,7 @@ if __name__ == '__main__':
         'model': ['model_hal.npz'],
         'dim_word': [510],
         'dim': [1024],
+        'src_words':[3500],
         'n-words': [20000], 
         'optimizer': ['adadelta'],
         'decay-c': [0.], 
